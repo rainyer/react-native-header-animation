@@ -4,7 +4,7 @@
 
 
 
-This is not a lib project. It's jus a lab session on react-native animations, where I explored how to animate a header through the opacity animated pro
+This is not a lib project. It's just a lab session on react-native animations, where I explored how to animate a header through the opacity animated pro
 
 ### Installing
 
